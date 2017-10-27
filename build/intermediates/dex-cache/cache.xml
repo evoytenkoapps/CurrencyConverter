@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Repo\CurrencyConverter\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="D:\Repo\CurrencyConverter\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-26.0.0-alpha1_4555238bd49f7e264356f865f2ce0c1cf16da4ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Repo\CurrencyConverter\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Repo\CurrencyConverter\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-26.0.0-alpha1_8d4c7ec6c2738ed058b990c7446bd977f9d5c02e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Repo\CurrencyConverter\app\build\intermediates\exploded-aar\com.android.support\design\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="D:\Repo\CurrencyConverter\app\build\intermediates\pre-dexed\debug\com.android.support-design-26.0.0-alpha1_f1369680988bb4a487107e5e7cfd8b0569e6eba0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Repo\CurrencyConverter\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="D:\Repo\CurrencyConverter\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-26.0.0-alpha1_abbfce047d9dc56b86c4cf1c8b5719cb57bac0a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Repo\CurrencyConverter\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="D:\Repo\CurrencyConverter\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-26.0.0-alpha1_3278d19d75650e8578b79c15276368e842e2ab05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Repo\CurrencyConverter\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="D:\Repo\CurrencyConverter\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-26.0.0-alpha1_56f193d592cf3831c2c4cf300034e6c718648c11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Repo\CurrencyConverter\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="D:\Repo\CurrencyConverter\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-26.0.0-alpha1_1e1d2d2bcf7fa21c1d0d2e3e1a604907eb44e14c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\evv\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="D:\Repo\CurrencyConverter\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_dab596bf14632e4d2617832bb031c1c2c193e396.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Repo\CurrencyConverter\app\build\intermediates\exploded-aar\com.android.support\transition\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="D:\Repo\CurrencyConverter\app\build\intermediates\pre-dexed\debug\com.android.support-transition-26.0.0-alpha1_0e18b3d0c5a6499d90cfac4a13a75804bcf6f77b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Repo\CurrencyConverter\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1183028cc873094b88c0bc644d279e778bbd6105">
+        <dex dex="D:\Repo\CurrencyConverter\app\build\intermediates\pre-dexed\debug\instant-run_24a9083d0a31e62a35a43d6bd86a2c2878a7a292.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\evv\.gradle\caches\modules-2\files-2.1\org.simpleframework\simple-xml\2.7.1\dd91fb744c2ff921407475cb29a1e3fee397d411\simple-xml-2.7.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dd91fb744c2ff921407475cb29a1e3fee397d411">
+        <dex dex="D:\Repo\CurrencyConverter\app\build\intermediates\pre-dexed\debug\simple-xml-2.7.1_419992a53c4564b827aad63149c0037f459e7530.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Repo\CurrencyConverter\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="D:\Repo\CurrencyConverter\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-26.0.0-alpha1_13b4dc8d2f298e49726edf9b04c92848aea64e7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Repo\CurrencyConverter\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="D:\Repo\CurrencyConverter\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-26.0.0-alpha1_0d4b79900ddbeaf968c1a1922f36c1522b2baf15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Repo\CurrencyConverter\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="D:\Repo\CurrencyConverter\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-26.0.0-alpha1_1b01fca9ff92f1c792d9538a33e0373630e5d34d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Repo\CurrencyConverter\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="D:\Repo\CurrencyConverter\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-26.0.0-alpha1_56f193d592cf3831c2c4cf300034e6c718648c11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Repo\CurrencyConverter\app\build\intermediates\exploded-aar\com.android.support\design\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="D:\Repo\CurrencyConverter\app\build\intermediates\pre-dexed\debug\com.android.support-design-26.0.0-alpha1_f1369680988bb4a487107e5e7cfd8b0569e6eba0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Repo\CurrencyConverter\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="D:\Repo\CurrencyConverter\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-26.0.0-alpha1_3278d19d75650e8578b79c15276368e842e2ab05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Repo\CurrencyConverter\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Repo\CurrencyConverter\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-26.0.0-alpha1_8d4c7ec6c2738ed058b990c7446bd977f9d5c02e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Repo\CurrencyConverter\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="D:\Repo\CurrencyConverter\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-26.0.0-alpha1_28974b68cd026d99ba63ec4c49a4c850288011ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Repo\CurrencyConverter\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="D:\Repo\CurrencyConverter\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-26.0.0-alpha1_abbfce047d9dc56b86c4cf1c8b5719cb57bac0a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Repo\CurrencyConverter\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0d71fadfcbb5ffc723059522589270eaf9710906">
+        <dex dex="D:\Repo\CurrencyConverter\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_91c7190ea8d789cda18094457e9d64462b02733c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Repo\CurrencyConverter\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="D:\Repo\CurrencyConverter\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-26.0.0-alpha1_4555238bd49f7e264356f865f2ce0c1cf16da4ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\evv\.gradle\caches\modules-2\files-2.1\stax\stax\1.2.0\c434800de5e4bbe1822805be5fb1c32d6834f830\stax-1.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c434800de5e4bbe1822805be5fb1c32d6834f830">
+        <dex dex="D:\Repo\CurrencyConverter\app\build\intermediates\pre-dexed\debug\stax-1.2.0_deee660b8338b2017131439dafd07f6d32f55153.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Repo\CurrencyConverter\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="D:\Repo\CurrencyConverter\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-26.0.0-alpha1_1e1d2d2bcf7fa21c1d0d2e3e1a604907eb44e14c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Repo\CurrencyConverter\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="D:\Repo\CurrencyConverter\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-26.0.0-alpha1_1b01fca9ff92f1c792d9538a33e0373630e5d34d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Repo\CurrencyConverter\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="D:\Repo\CurrencyConverter\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-26.0.0-alpha1_13b4dc8d2f298e49726edf9b04c92848aea64e7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\evv\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="D:\Repo\CurrencyConverter\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_dab596bf14632e4d2617832bb031c1c2c193e396.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Repo\CurrencyConverter\app\build\intermediates\exploded-aar\com.android.support\transition\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="D:\Repo\CurrencyConverter\app\build\intermediates\pre-dexed\debug\com.android.support-transition-26.0.0-alpha1_0e18b3d0c5a6499d90cfac4a13a75804bcf6f77b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\evv\.gradle\caches\modules-2\files-2.1\org.simpleframework\simple-xml\2.7.1\dd91fb744c2ff921407475cb29a1e3fee397d411\simple-xml-2.7.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dd91fb744c2ff921407475cb29a1e3fee397d411">
+        <dex dex="D:\Repo\CurrencyConverter\app\build\intermediates\pre-dexed\debug\simple-xml-2.7.1_419992a53c4564b827aad63149c0037f459e7530.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\evv\.gradle\caches\modules-2\files-2.1\stax\stax\1.2.0\c434800de5e4bbe1822805be5fb1c32d6834f830\stax-1.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c434800de5e4bbe1822805be5fb1c32d6834f830">
+        <dex dex="D:\Repo\CurrencyConverter\app\build\intermediates\pre-dexed\debug\stax-1.2.0_deee660b8338b2017131439dafd07f6d32f55153.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Repo\CurrencyConverter\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="D:\Repo\CurrencyConverter\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-26.0.0-alpha1_0d4b79900ddbeaf968c1a1922f36c1522b2baf15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Repo\CurrencyConverter\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="D:\Repo\CurrencyConverter\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-26.0.0-alpha1_28974b68cd026d99ba63ec4c49a4c850288011ca.jar" />
+    </item>
+
+</items>

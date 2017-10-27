@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Repo\\CurrencyConverter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
+        "source": "D:\\Repo\\CurrencyConverter\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.0.0-alpha1\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "D:\\Repo\\CurrencyConverter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_checked.xml",
+        "source": "D:\\Repo\\CurrencyConverter\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_checked.xml"
+    },
+    {
+        "merged": "D:\\Repo\\CurrencyConverter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
+        "source": "D:\\Repo\\CurrencyConverter\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.0.0-alpha1\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+    }
+]
