@@ -23,7 +23,7 @@ import java.net.URL;
 import java.net.URLClassLoader;
 
 /**
- * Загружает данные с локального хранилища, сервера и сохраняет их в хранилище0
+ * Загружает данные с локального хранилища, сервера и сохраняет их в хранилище
  */
 
 public class DataLoader extends AsyncTask<String, Void, String>
