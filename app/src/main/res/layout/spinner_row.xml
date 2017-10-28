@@ -29,6 +29,7 @@
         android:layout_height="match_parent"
         android:src="@drawable/ic_checked"
         android:visibility="invisible"
+        android:tint="@color/colorAccent"
         />
 
 </LinearLayout>
