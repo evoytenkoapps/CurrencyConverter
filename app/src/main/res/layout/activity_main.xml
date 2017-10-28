@@ -61,8 +61,8 @@
         android:layout_marginBottom="24dp"
         android:layout_marginTop="24dp"
         android:padding="12dp"
-        android:text="@string/btn_convert"
-        />
+        android:text="@string/btn_convert"                                             
+        android:textAllCaps="false"/>
 
     <TextView
         android:id="@+id/tv_result"
